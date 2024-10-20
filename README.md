@@ -1,6 +1,6 @@
 # LinkedIn-Job-Postings-Data-Analysis
 
-Title: LinkedIn Job Posting Data Analysis 2023-2024
+Title: LinkedIn Job Posting Data Analysis 2023-2024<br>
 Course: Përgatitja dhe vizualizimi i të dhënave
 
 
