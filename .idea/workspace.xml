@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="307a1fc4-0b99-4e3d-ba27-aa20fa4428f4" name="Changes" comment="" />
+    <list default="true" id="307a1fc4-0b99-4e3d-ba27-aa20fa4428f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ProcessingData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Raw_Data/postings.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Raw Data/companies/companies.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Raw_Data/companies/companies.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Raw Data/companies/company_industries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Raw_Data/companies/company_industries.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Raw Data/companies/company_specialities.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Raw_Data/companies/company_specialities.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Raw Data/companies/employee_counts.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Raw_Data/companies/employee_counts.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Raw Data/jobs/benefits.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Raw_Data/jobs/benefits.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Raw Data/jobs/job_industries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Raw_Data/jobs/job_industries.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Raw Data/jobs/job_skills.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Raw_Data/jobs/job_skills.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Raw Data/jobs/salaries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Raw_Data/jobs/salaries.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Raw Data/mappings/industries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Raw_Data/mappings/industries.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Raw Data/mappings/skills.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Raw_Data/mappings/skills.csv" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,15 +56,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ProcessingData.executor": "Debug",
+    "Python.ProcessingData.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alma\PycharmProjects\LinkedIn-Job-Postings-Data-Analysis\Raw_Data" />
       <recent name="C:\Users\Alma\PycharmProjects\LinkedIn-Job-Postings-Data-Analysis\Raw Data" />
       <recent name="C:\Users\Alma\PycharmProjects\LinkedIn-Job-Postings-Data-Analysis\Data\Unprocessed Data" />
       <recent name="C:\Users\Alma\PycharmProjects\LinkedIn-Job-Postings-Data-Analysis\Data\Unprocessed Data\companies" />
@@ -112,7 +130,31 @@
       <option name="project" value="LOCAL" />
       <updated>1729815559693</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Data for companies updated">
+      <option name="closed" value="true" />
+      <created>1729816057385</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729816057385</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Data for open jobs, unprocessed data">
+      <option name="closed" value="true" />
+      <created>1729816277034</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729816277034</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Unproccesed mapping data">
+      <option name="closed" value="true" />
+      <created>1729849444736</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729849444736</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +172,10 @@
     <MESSAGE value="Init project" />
     <MESSAGE value="Revert &quot;Init project&quot;&#10;&#10;This reverts commit 655d8a5b29aef4f29ddb3751ad2a6f5f03e8a02f." />
     <MESSAGE value="Track large files with Git LFS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Track large files with Git LFS" />
+    <MESSAGE value="Data for companies updated" />
+    <MESSAGE value="Data for open jobs, unprocessed data" />
+    <MESSAGE value="Starting the preprocessing datas, currently" />
+    <MESSAGE value="Unproccesed mapping data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unproccesed mapping data" />
   </component>
 </project>
