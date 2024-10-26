@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="307a1fc4-0b99-4e3d-ba27-aa20fa4428f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ProcessingData.py" afterDir="false" />
+    <list default="true" id="307a1fc4-0b99-4e3d-ba27-aa20fa4428f4" name="Changes" comment="Starting with preprocessing data. Currently reading the files and eliminate the duplicates.">
       <change afterPath="$PROJECT_DIR$/Raw_Data/postings.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Raw Data/companies/companies.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Raw_Data/companies/companies.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Raw Data/companies/company_industries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Raw_Data/companies/company_industries.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Raw Data/companies/company_specialities.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Raw_Data/companies/company_specialities.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Raw Data/companies/employee_counts.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Raw_Data/companies/employee_counts.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Raw Data/jobs/benefits.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Raw_Data/jobs/benefits.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Raw Data/jobs/job_industries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Raw_Data/jobs/job_industries.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Raw Data/jobs/job_skills.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Raw_Data/jobs/job_skills.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Raw Data/jobs/salaries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Raw_Data/jobs/salaries.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Raw Data/mappings/industries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Raw_Data/mappings/industries.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Raw Data/mappings/skills.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Raw_Data/mappings/skills.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessingData.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProcessingData.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.ProcessingData.executor": "Debug",
+    "Python.ProcessingData.executor": "Run",
     "Python.ProcessingData.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -154,7 +143,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729849444736</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Starting with preprocessing data. Currently reading the files and eliminate the duplicates.">
+      <option name="closed" value="true" />
+      <created>1729937502619</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729937502619</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Starting with preprocessing data. Currently reading the files and eliminate the duplicates.">
+      <option name="closed" value="true" />
+      <created>1729937686180</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729937686180</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,6 +181,7 @@
     <MESSAGE value="Data for open jobs, unprocessed data" />
     <MESSAGE value="Starting the preprocessing datas, currently" />
     <MESSAGE value="Unproccesed mapping data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Unproccesed mapping data" />
+    <MESSAGE value="Starting with preprocessing data. Currently reading the files and eliminate the duplicates." />
+    <option name="LAST_COMMIT_MESSAGE" value="Starting with preprocessing data. Currently reading the files and eliminate the duplicates." />
   </component>
 </project>
