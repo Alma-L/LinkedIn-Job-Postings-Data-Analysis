@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="307a1fc4-0b99-4e3d-ba27-aa20fa4428f4" name="Changes" comment="Update read me with information">
+    <list default="true" id="307a1fc4-0b99-4e3d-ba27-aa20fa4428f4" name="Changes" comment="Made some changes in PreprocessingData.ipynb">
       <change afterPath="$PROJECT_DIR$/Raw_Data/postings.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/PreprocessingData-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/PreprocessingData-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PreprocessingData.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PreprocessingData.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProcessingData.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729954781093</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Made some changes in PreprocessingData.ipynb">
+      <option name="closed" value="true" />
+      <created>1730028286191</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730028286191</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,6 +216,7 @@
     <MESSAGE value="Handling missing data but still needs a checkup." />
     <MESSAGE value="Check again the data and made some changes." />
     <MESSAGE value="Update read me with information" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update read me with information" />
+    <MESSAGE value="Made some changes in PreprocessingData.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made some changes in PreprocessingData.ipynb" />
   </component>
 </project>
