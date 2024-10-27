@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="307a1fc4-0b99-4e3d-ba27-aa20fa4428f4" name="Changes" comment="Handling missing data but still needs a checkup.">
+    <list default="true" id="307a1fc4-0b99-4e3d-ba27-aa20fa4428f4" name="Changes" comment="Update read me with information">
       <change afterPath="$PROJECT_DIR$/Raw_Data/postings.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/PreprocessingData-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/PreprocessingData-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreprocessingData.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PreprocessingData.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessingData.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -175,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729953525252</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Update read me with information">
+      <option name="closed" value="true" />
+      <created>1729954781093</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729954781093</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +211,8 @@
     <MESSAGE value="Data preprocesing using Jupyter as plugin to archive better results." />
     <MESSAGE value="Starting with preprocessing data. Currently reading the files and eliminate the duplicates." />
     <MESSAGE value="Handling missing data but still needs a checkup." />
-    <option name="LAST_COMMIT_MESSAGE" value="Handling missing data but still needs a checkup." />
+    <MESSAGE value="Check again the data and made some changes." />
+    <MESSAGE value="Update read me with information" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update read me with information" />
   </component>
 </project>
