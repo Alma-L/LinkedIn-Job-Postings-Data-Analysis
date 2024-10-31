@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="307a1fc4-0b99-4e3d-ba27-aa20fa4428f4" name="Changes" comment="Made some changes in PreprocessingData.ipynb">
       <change afterPath="$PROJECT_DIR$/Raw_Data/postings.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreprocessingData.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PreprocessingData.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +35,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Alma-L/LinkedIn-Job-Postings-Data-Analysis.git&quot;,
-    &quot;accountId&quot;: &quot;d646f7a4-b93f-4e16-b945-0d444fbfc8c0&quot;
+    &quot;accountId&quot;: &quot;34329288-666b-4f2d-9d59-cc9d76c276bb&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -43,16 +46,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.ProcessingData.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ProcessingData.py.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ProcessingData.executor": "Run",
+    "Python.ProcessingData.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/edi/PycharmProjects/LinkedIn-Job-Postings-Data-Analysis/Raw_Data",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Raw_Data" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Alma\PycharmProjects\LinkedIn-Job-Postings-Data-Analysis\Raw_Data" />
       <recent name="C:\Users\Alma\PycharmProjects\LinkedIn-Job-Postings-Data-Analysis\Raw Data" />
