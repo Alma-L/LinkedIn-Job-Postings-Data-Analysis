@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="307a1fc4-0b99-4e3d-ba27-aa20fa4428f4" name="Changes" comment="Made some changes in PreprocessingData.ipynb">
+    <list default="true" id="307a1fc4-0b99-4e3d-ba27-aa20fa4428f4" name="Changes" comment="created a new category and updated readme file">
+      <change afterPath="$PROJECT_DIR$/Raw_Data/postings.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2024_12_12_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2024_12_12__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/PreprocessingData-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/PreprocessingData-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PreprocessingData.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PreprocessingData.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +39,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Alma-L/LinkedIn-Job-Postings-Data-Analysis.git",
-    "accountId": "27e5ba24-8d63-4548-9a10-6a84f3300c64"
+    "accountId": "d646f7a4-b93f-4e16-b945-0d444fbfc8c0"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -193,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730028286191</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="created a new category and updated readme file">
+      <option name="closed" value="true" />
+      <created>1730553015120</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1730553015120</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,6 +236,7 @@
     <MESSAGE value="Check again the data and made some changes." />
     <MESSAGE value="Update read me with information" />
     <MESSAGE value="Made some changes in PreprocessingData.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made some changes in PreprocessingData.ipynb" />
+    <MESSAGE value="created a new category and updated readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="created a new category and updated readme file" />
   </component>
 </project>
