@@ -11,7 +11,7 @@ Additionally, companies can gauge interest in their job postings by analyzing vi
 The dataset is publicly available on Kaggle, and you can access it [here](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings).
 
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/cloud.svg" width="20" height="20"> <strong>Notice</strong>: Due to size constraints, the postings.csv file is not included in this repository.
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/cloud.svg" width="20" height="20" style="filter: invert(1) brightness(2);"> <strong>Notice</strong>: Due to size constraints, the postings.csv file is not included in this repository.
 
 ## Project Requirements
 
@@ -38,11 +38,13 @@ The key objectives and requirements for this project include:
 1. **Data Preprocessing**: Defined data types, handled missing values, and integrated datasets.
 2. **PCA for Dimensionality Reduction**: Reduced high-dimensional numerical data to principal components.
 3. **Analysis**: Insights into salary levels.
+4. **Seasonal Classification**: A function get_season() categorizes job postings based on their posting and expiry dates, which allows insights into when job postings peak by season.
 
 ## File Descriptions
 
 - `postings.csv`: Raw LinkedIn job postings data.
 - `PreprocessingData.ipynb`: Jupyter Notebook with data processing and analysis.
+- `Preprocessed_job_postings`: Pre-processed LinkedIn job posting data.
 - `README.md`: Project documentation (this file).
 
 ## Getting Started

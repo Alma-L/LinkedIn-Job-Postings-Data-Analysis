@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="307a1fc4-0b99-4e3d-ba27-aa20fa4428f4" name="Changes" comment="Code review and saved preprocessed data" />
+    <list default="true" id="307a1fc4-0b99-4e3d-ba27-aa20fa4428f4" name="Changes" comment="Added preprocesd file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/PreprocessingData-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/PreprocessingData-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreprocessingData.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PreprocessingData.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,7 +212,31 @@
       <option name="project" value="LOCAL" />
       <updated>1730581608115</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Added preprocesd file">
+      <option name="closed" value="true" />
+      <created>1730587347780</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1730587347780</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added preprocesd file">
+      <option name="closed" value="true" />
+      <created>1730587376026</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1730587376026</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Added preprocesd file">
+      <option name="closed" value="true" />
+      <created>1730588099521</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1730588099521</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -248,6 +277,7 @@
     <MESSAGE value="Reduktimi i dimensionit në PCA" />
     <MESSAGE value="created a new category and updated readme file" />
     <MESSAGE value="Code review and saved preprocessed data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code review and saved preprocessed data" />
+    <MESSAGE value="Added preprocesd file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added preprocesd file" />
   </component>
 </project>
