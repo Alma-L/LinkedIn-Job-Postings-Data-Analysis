@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="307a1fc4-0b99-4e3d-ba27-aa20fa4428f4" name="Changes" comment="A density graph has been added, and outliers in max_salary and min_salary have been addressed, considering them as monthly incomes">
+    <list default="true" id="307a1fc4-0b99-4e3d-ba27-aa20fa4428f4" name="Changes" comment="Cleaned some outliers still needs to be checked">
+      <change afterPath="$PROJECT_DIR$/Raw_Data/postings.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/PreprocessingData-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/PreprocessingData-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PreprocessingData.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PreprocessingData.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -251,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732994155024</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Cleaned some outliers still needs to be checked">
+      <option name="closed" value="true" />
+      <created>1733004312875</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1733004312875</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -295,6 +305,7 @@
     <MESSAGE value="Added preprocesd file" />
     <MESSAGE value="Code checkup and made some updates." />
     <MESSAGE value="A density graph has been added, and outliers in max_salary and min_salary have been addressed, considering them as monthly incomes" />
-    <option name="LAST_COMMIT_MESSAGE" value="A density graph has been added, and outliers in max_salary and min_salary have been addressed, considering them as monthly incomes" />
+    <MESSAGE value="Cleaned some outliers still needs to be checked" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaned some outliers still needs to be checked" />
   </component>
 </project>
