@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="307a1fc4-0b99-4e3d-ba27-aa20fa4428f4" name="Changes" comment="Cleaned some outliers still needs to be checked">
+    <list default="true" id="307a1fc4-0b99-4e3d-ba27-aa20fa4428f4" name="Changes" comment="This update enhances the accuracy of insights derived from the dataset by removing extreme values that may skew results.">
       <change afterPath="$PROJECT_DIR$/Raw_Data/postings.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/PreprocessingData-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/PreprocessingData-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PreprocessingData.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PreprocessingData.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Processed_data/preprocessed_job_postings.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -261,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733004312875</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="This update enhances the accuracy of insights derived from the dataset by removing extreme values that may skew results.">
+      <option name="closed" value="true" />
+      <created>1733225123533</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1733225123533</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -306,6 +315,7 @@
     <MESSAGE value="Code checkup and made some updates." />
     <MESSAGE value="A density graph has been added, and outliers in max_salary and min_salary have been addressed, considering them as monthly incomes" />
     <MESSAGE value="Cleaned some outliers still needs to be checked" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleaned some outliers still needs to be checked" />
+    <MESSAGE value="This update enhances the accuracy of insights derived from the dataset by removing extreme values that may skew results." />
+    <option name="LAST_COMMIT_MESSAGE" value="This update enhances the accuracy of insights derived from the dataset by removing extreme values that may skew results." />
   </component>
 </project>
