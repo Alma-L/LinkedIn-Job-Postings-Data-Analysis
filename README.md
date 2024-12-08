@@ -121,6 +121,8 @@ The second phase of the project focuses on detecting outliers and performing exp
 - **Top Companies with Most Job Posting After IQR Implementation**:  
   ![Companies](images/companis.png)
 
+- **Top Required Skills in Job Posting After Z-Score**:   
+    ![Requred Skills](images/JobSkills.png)
 
 - **Removing Outliers And Normalizing The Pay Period**:  
   ![Pay](images/pay_table.png)
