@@ -137,18 +137,8 @@ The second phase of the project focuses on detecting outliers and performing exp
 - **Distribution of Hourly Salaries Second Step After IQR Implementation**:  
   ![Salary IQR](images/salary_iqr.png)
 
-
-- **Distribution of Hourly Salaries Second Step After IQR Implementation**:  
-  ![Salary IQR](images/salary_iqr.png)
-
-
 - **Variability Of Applies and Views**:  
   ![Variability](images/variablity.png)
-
-
-- **Variability Of Applies and Views**:  
-  ![Variability](images/variablity.png)
-
 
 - **Variability Of Applies and Views After Using Z-score anf Handling Skewness**:  
   ![Skewness](images/skewness.png)
